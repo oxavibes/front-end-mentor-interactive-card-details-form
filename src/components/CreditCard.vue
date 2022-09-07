@@ -112,6 +112,7 @@ const cardCvc = computed(() => {
 
 .card-back .card-cvc {
   position: relative;
+  width: max-content;
   top: 50px;
   left: 211px;
   letter-spacing: 1px;
